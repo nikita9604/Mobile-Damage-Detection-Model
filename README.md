@@ -5,12 +5,7 @@ We have used YOLO, which is a pre-trained model for object detection, based on w
 
 
 # YOLOsmall Evaluation Matrix
-Class             Images    Instances      Box(  P          R         mAP50      mAP50-95)
-all               702       1266                 0.826      0.655     0.713      0.384
-dead pixel        156       217                 0.812       0.562     0.613      0.278
-scratch           171       399                 0.844       0.82      0.846      0.427
-screen crack      336       650                 0.822       0.585     0.68       0.446
-
+![alt text](https://github.com/nikita9604/Mobile-Damage-Detection-Model/blob/main/Model%20Inference.png)
 
 
 # Folder Structure (YOLO Format)
